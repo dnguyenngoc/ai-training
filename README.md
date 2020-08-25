@@ -1,4 +1,4 @@
-# ai-training
+# AI-TRAINNIG
 This is a some of model ai training.
 
 ### FACE-RECOGNITION
